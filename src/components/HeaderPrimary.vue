@@ -26,7 +26,7 @@ import { RouterLink } from 'vue-router';
           </button>
 
           <RouterLink to="/login"
-            class="block rounded-lg bg-blue-600 px-5 py-3 text-sm font-medium text-white transition hover:bg-blue-700 focus:outline-none focus:ring"
+            class="flex justify-center rounded-lg bg-blue-600 px-5 py-3 text-sm font-medium text-white transition hover:bg-blue-700 focus:outline-none focus:ring"
             type="button">
             inicio de sesion
           </RouterLink>
