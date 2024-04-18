@@ -7,7 +7,7 @@ import { RouterLink } from 'vue-router';
     <div class="mx-auto bg-black px-4 py-8 sm:px-6 sm:py-12 lg:px-8">
       <div class="sm:flex sm:items-center sm:justify-between">
         <div class="text-center sm:text-left">
-          <h1 class="text-2xl font-bold text-white sm:text-3xl">Rayos X de Creano</h1>
+          <h1 class="text-2xl font-bold text-white sm:text-3xl">Rayos X de Craneo</h1>
 
           <p class="mt-1.5 text-sm text-gray-500">Documentos de investigación</p>
         </div>
